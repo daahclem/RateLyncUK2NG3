@@ -1,0 +1,55 @@
+[
+  
+{
+  "provider": "Jupay",
+  "origin": "GB",
+  "destination": "NG",
+  "payout_method": "bank_transfer",
+  "url": "https://jupay.co/",
+  "send_amount": 1
+},
+{
+  "provider": "OaPay",
+  "origin": "GB",
+  "destination": "NG",
+  "payout_method": "bank_transfer",
+  "url": "https://www.oapay.co/",
+  "send_amount": 1
+},
+{
+  "provider": "Ohent Pay",
+  "origin": "GB",
+  "destination": "NG",
+  "payout_method": "bank_transfer",
+  "url": "https://www.ohentpay.com/en-GB",
+  "send_amount": 1
+},
+{
+  "provider": "PadiePay",
+  "origin": "GB",
+  "destination": "NG",
+  "payout_method": "bank_transfer",
+  "url": "https://www.padiepay.com/",
+  "send_amount": 1
+},
+
+{
+  "provider": "Pesa.co",
+  "origin": "GB",
+  "destination": "NG",
+  "payout_method": "bank_transfer",
+  "url": "https://www.pesa.co/",
+  "send_amount": 1
+},
+
+
+{
+  "provider": "TransferGalaxy",
+  "origin": "GB",
+  "destination": "NG",
+  "payout_method": "bank_transfer",
+  "url": "https://transfergalaxy.com/en/",
+  "send_amount": 1
+}
+
+]
